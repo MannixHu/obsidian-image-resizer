@@ -45,7 +45,7 @@ When you resize an image, the plugin:
 
 ```bash
 # Clone the repository
-git clone https://github.com/anthropics/obsidian-image-resizer.git
+git clone https://github.com/MannixHu/obsidian-image-resizer.git
 
 # Install dependencies
 npm install

@@ -45,7 +45,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/anthropics/obsidian-image-resizer.git
+git clone https://github.com/MannixHu/obsidian-image-resizer.git
 
 # 安装依赖
 npm install
